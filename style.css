@@ -1,0 +1,19 @@
+body{
+    background-image: url("BG.gif");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: rgb(92, 2, 2);
+    font-family: fantasy;
+    margin: 10px;
+    font-size: 40px;
+}
+h2{
+    color: rgb(2, 2, 94);
+}
+#myCanvas{
+    background-color: greenyellow;
+    border: darkgreen;
+    border-style: ridge;
+}
